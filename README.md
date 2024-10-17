@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, Python, & Git**
 
-- 📫 How to reach me **natadesse33@gmail.com**
+- 📫 How to reach me **natadesse33@gmail.com** or **https://www.linkedin.com/in/natantadesse/**
 
 - ⚡ Fun fact **I play chess in my spare time!**
 
